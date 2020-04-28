@@ -1,6 +1,6 @@
 Android Persian Calendar [![Build Status](https://travis-ci.org/ebraminio/DroidPersianCalendar.svg?branch=master)](https://travis-ci.org/ebraminio/DroidPersianCalendar)  [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ebraminio/DroidPersianCalendar)
 =============================
-<div lang="fa" dir="rtl">تقویم فارسی 99<br />
+<div lang="fa" dir="rtl"> <br />
     
    این برنامه به صورت رایگان و متن‌باز نوشته شده‌است و سورس کدهای اصلی و ویرایش شده آن را میتوانید در زیر دریافت کنید
 
