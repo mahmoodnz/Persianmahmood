@@ -18,7 +18,7 @@ Download
 -----------------------------
 <ul>
     <li> <a href="https://play.google.com/store/apps/details?id=com.byagowi.persiancalendar" >Google Play</a> </li>
-    <li> <a href="https://cafebazaar.ir/app/com.qoqnouse.persiancalendar"><img src = "https://coffeeapps.ir/wp-content/uploads/2018/05/3133.jpg" with = "50px" height = "50px" alt = ""/>Bazaar</a> </li>
+    <li> <a href="https://cafebazaar.ir/app/com.qoqnouse.persiancalendar"><img src = "https://masoumehteymouri.com/wp-content/uploads/2019/01/cafebazaar-on.png" with = "400px" height = "100px" alt = ""/>Bazaar</a> </li>
     <li> <a href="https://github.com/ebraminio/DroidPersianCalendar/releases/" >Github</a> </li>
 </ul>
 
