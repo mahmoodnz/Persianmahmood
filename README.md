@@ -17,9 +17,9 @@
 Download
 -----------------------------
 <ul>
-    <li> <a href="https://play.google.com/store/apps/details?id=com.byagowi.persiancalendar" >Google Play</a> </li>
-    <li> <a href="https://cafebazaar.ir/app/com.qoqnouse.persiancalendar"><img src = "https://masoumehteymouri.com/wp-content/uploads/2019/01/cafebazaar-on.png" with = "400px" height = "100px" alt = ""/>Bazaar</a> </li>
-    <li> <a href="https://github.com/ebraminio/DroidPersianCalendar/releases/" >Github</a> </li>
+    <li> <a href="https://cafebazaar.ir/app/com.qoqnouse.persiancalendar"><img src = "https://masoumehteymouri.com/wp-content/uploads/2019/01/cafebazaar-on.png" with = "400px" height = "100px" alt = ""/></a>دانلود برنامه از کافه بازار</li>
+    <li> <a href="https://github.com/ebraminio/DroidPersianCalendar/releases/" <img src = "https://www.linuxadictos.com/wp-content/uploads/GitHub.png
+" with = "400px" height = "100px" alt = ""/>دانلود سورس از گیت  هاب</a> </li>
 </ul>
 
 License
